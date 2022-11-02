@@ -1,13 +1,27 @@
+
+
 # Landing Page Project
 
-## Table of Contents
+## Contents
 
-* [Instructions](#instructions)
+* [Description](#description)
+* [Files included](#files-included)
+* [Lincense](#lincense)
 
-## Instructions
+## Description
+This project is designed to display a static informative landing page using HTML, CSS and JavaScript includes the following:
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+* Landing page with 4 section 
+* Smooth scroll
+* Awesome design 
+* Simple animation 
 
-To get started, open `js/app.js` and start building out the app's functionality
+## Files included
 
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+- css/styles.css
+- js/app.js
+- index.html
+
+## Lincense 
+
+[Udacity](https://www.udacity.com/legal)
