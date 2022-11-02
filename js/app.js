@@ -99,7 +99,8 @@ document.addEventListener('scroll', function () {
           else {
                sec.classList.remove('your-active-class');
                el = document.getElementById(sec.getAttribute('id') + '-link'),
-               el.classList.remove('active')    }
+                    el.classList.remove('active')
+          }
      });
 
 
